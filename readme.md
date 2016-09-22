@@ -31,15 +31,14 @@ tried out some of the examples.
 3. lesson2.pdf -- Teaching Turtles (from CodeClub.org)
 4. lesson3.pdf -- Secret Codes (from CodeClub.org)
 5. lesson4.pdf -- Turtles all the way down (from CodeClub.org)
-6. my_cc_proj_1_tables
-7. my_cc_proj_2_birds_on_a_wire
-8. my_cc_proj_3_igpay_atinlay
-9. my_cc_proj_4_curiouser_and_curiouser
-10. my_cc_proj_8_monty_hall
+6. my_cc_proj_1_tables -- times table trainer.
+7. my_cc_proj_2_birds_on_a_wire -- random packing on a line.
+8. my_cc_proj_3_igpay_atinlay -- pig latin
+9. my_cc_proj_4_curiouser_and_curiouser -- processing text
+10. my_cc_proj_8_monty_hall -- statistical modelling
 11. my_cc_proj_9_turtle -- a Turtle graphics crib-sheet but with no
 structured project
-12. my_cc_proj_11_adventure -- For this you need to provide the
-students with the included file "RPG.py"
+12. my_cc_proj_11_adventure -- data-driven programing. For this you need to provide the students with the included file "RPG.py"
 13. my_cc_proj_999_at_home -- an end-of-term handout I used to
 encourage the students to do some programming at home
 
@@ -110,8 +109,10 @@ of ideas and several part-finished projects).
 
 Part-finished projects (not included here)
 
+````
 my_cc_proj_5 - noughts and crosses
 my_cc_proj_6 - draw a maze
 my_cc_proj_7 - creative writing
 my_cc_proj_10 - paint
 my_cc_proj_11 - square
+````
