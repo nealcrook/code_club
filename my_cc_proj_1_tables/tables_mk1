@@ -1,0 +1,16 @@
+# Times table trainer
+#
+
+from random import choice
+
+first_set = [1,2,3,4,5,6,7,8,9,10,11,12]
+second_set = [1,2,3,4,5,6,7,8,9,10,11,12]
+
+first = choice(first_set)
+second = choice(second_set)
+
+answer = input("What is " + str(first) + " x " + str(second) + " = ? ")
+if int(answer) == first * second:
+   print ("Correct")
+else:
+   print ("Wrong")

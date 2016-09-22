@@ -1,0 +1,42 @@
+#!/usr/bin/python
+#
+# Birds on a wire
+#
+# Improvement: keep per-user array of right and wrong answers;
+#              use it to guide selection
+
+from random import randint
+
+# length of the wire
+wire_length = 132
+
+# use a 0 to represent an empty position on the wire
+# (use 1 to represent wing, 2 to represent body)
+wire = [0 for cell in range(wire_length)]
+
+# try to place 300 birds in the wire
+birds=0
+for fit in range(300):
+    ##where = randint(0,wire_length-1)
+    where= randint(1, wire_length-2)
+    # will it fit there?
+    # need no body here, no body on either side
+    if (where != 0) & (where != (wire_length-1)) & (wire[where] == 0) & (wire[where-1] != 2) & (wire[where+1] !=2):
+        # yes, it will
+        wire[where]=2
+        wire[where-1]=1
+        wire[where+1]=1
+        birds = birds + 1
+    # print the state of the wire
+#    for cell in range(wire_length):
+#        if wire[cell] == 0:
+#            print(" ", end="")
+#        if wire[cell] == 1:
+#            print("^", end="")
+#        if wire[cell] == 2:
+#            print("O", end="")
+#    print("")
+    
+print("Fitted %d birds" %(birds))
+        
+

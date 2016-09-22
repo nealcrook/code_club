@@ -1,0 +1,14 @@
+# Times table trainer
+#
+
+from random import choice
+
+first_set = [7]
+second_set = [2,3,4,5,6,7,8,9,11,12]
+questions = 20
+
+for q in range(0, questions):
+    first = choice(first_set)
+    second = choice(second_set)
+
+    print ("What is " + str(first) + " x " + str(second) + " = ?                         " + str(first*second))
