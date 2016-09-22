@@ -25,22 +25,22 @@ in the work-sheet.
 
 This is the sequence in which I used them:
 
-# my_cc_proj_0_python3_intro -- we went through this together and
+1. my_cc_proj_0_python3_intro -- we went through this together and
 tried out some of the examples.
-# lesson1.pdf -- Turtle Power (from CodeClub.org)
-# lesson2.pdf -- Teaching Turtles (from CodeClub.org)
-# lesson3.pdf -- Secret Codes (from CodeClub.org)
-# lesson4.pdf -- Turtles all the way down (from CodeClub.org)
-# my_cc_proj_1_tables
-# my_cc_proj_2_birds_on_a_wire
-# my_cc_proj_3_igpay_atinlay
-# my_cc_proj_4_curiouser_and_curiouser
-# my_cc_proj_8_monty_hall
-# my_cc_proj_9_turtle -- a Turtle graphics crib-sheet but with no
+2. lesson1.pdf -- Turtle Power (from CodeClub.org)
+3. lesson2.pdf -- Teaching Turtles (from CodeClub.org)
+4. lesson3.pdf -- Secret Codes (from CodeClub.org)
+5. lesson4.pdf -- Turtles all the way down (from CodeClub.org)
+6. my_cc_proj_1_tables
+7. my_cc_proj_2_birds_on_a_wire
+8. my_cc_proj_3_igpay_atinlay
+9. my_cc_proj_4_curiouser_and_curiouser
+10. my_cc_proj_8_monty_hall
+11. my_cc_proj_9_turtle -- a Turtle graphics crib-sheet but with no
 structured project
-# my_cc_proj_11_adventure -- For this you need to provide the
+12. my_cc_proj_11_adventure -- For this you need to provide the
 students with the included file "RPG.py"
-# my_cc_proj_999_at_home -- an end-of-term handout I used to
+13. my_cc_proj_999_at_home -- an end-of-term handout I used to
 encourage the students to do some programming at home
 
 
